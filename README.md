@@ -193,14 +193,6 @@ life_philosophy: 'Talk is cheap. Show me the logs.'
 
 <br/><br/>
 
-  <!-- Activity Graph -->
-
-  <a href="https://github.com/belalhussam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=belalhussam&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity" width="95%" alt="Activity Graph"/>
-  </a>
-
-<br/><br/>
-
   <!-- Additional Stats Cards -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=belalhussam&theme=tokyonight" width="95%" alt="Profile Details"/>
