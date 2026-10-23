@@ -31,7 +31,11 @@
 
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-
+  <a href="https://github.com/belalhussam">
+    <img src="https://komarev.com/ghpvc/?username=belalhussam&label=Profile%20Views&color=764ba2&style=flat-square&base=1700" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/belalhussam?tab=repositories">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%belalhussam&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" alt="Repositories"/>
   </a>
   &nbsp;
