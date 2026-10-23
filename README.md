@@ -117,7 +117,6 @@ life_philosophy: 'Talk is cheap. Show me the logs.'
 
 ### 💡 Quick Facts
 
-- 🎓 Computer Science Graduate
 - 💻 Full-Stack Developer
 - ⚛️ Currently focused on React.js
 - 🟦 Working with JavaScript & TypeScript
